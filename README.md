@@ -21,7 +21,7 @@
 | Foreground | `236, 236, 236` | `#ececec` |
 | Comment | `88, 88, 88` | `#585858` |
 | Function | `176, 196, 231` | `#b0c4e7` |
-| Number | `169, 172, 204` | `#a9accc` |
+| Number | `151, 188, 211` | `#98bdd4` |
 | Variable | `162, 201, 211` | `#a2c9d3` |
 | Key word | `192, 226, 212` | `#c0e2d4` |
 | String | `171, 180, 163` | `#abb4a3` |
