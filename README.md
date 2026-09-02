@@ -17,8 +17,8 @@
 
 | Element | RGB | HEX |
 | :---: | :---: | :---: |
-| Background | `18, 18, 18` | `#121212` |
-| Foreground | `236, 236, 236` | `#0d0d0d` |
+| Background | `18, 18, 18` | `#0d0d0d` |
+| Foreground | `236, 236, 236` | `#ececec` |
 | Comment | `112, 112, 112` | `#585858` |
 | Function | `176, 196, 231` | `#b0c4e7` |
 | Number | `151, 188, 211` | `#98bdd4` |
