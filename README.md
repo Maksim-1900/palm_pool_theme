@@ -40,3 +40,5 @@
 | Key word | `73, 41, 55` | `#492937` |
 | String | `51, 54, 49` | `#333631` |
 | Invalid/Error | `229, 39, 39` | `#E52727` |
+
+The theme remains low contrast, I don't plan to increase it so much that it might cause fatigue. Or edit for yourself.
