@@ -39,7 +39,7 @@
 
 | Element | RGB | HEX |
 | :---: | :---: | :---: |
-| Background | `253, 250, 248` | `#fdfaf8` |
+| Background | `247, 241, 238` | `#f7f1ee` |
 | Foreground | `0, 0, 0` | `#000000` |
 | Comment | `88, 88, 88` | `#585858` |
 | Function | `58, 42, 15` | `#3a2a0f` |
