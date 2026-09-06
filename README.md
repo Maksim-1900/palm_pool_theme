@@ -47,4 +47,17 @@
 | String | `51, 54, 49` | `#333631` |
 | Invalid/Error | `229, 39, 39` | `#E52727` |
 
+### Palm Pool Light (Cold)
+
+| Element | RGB | HEX |
+| :---: | :---: | :---: |
+| Background | `227, 230, 232` | `#e3e6e8` |
+| Foreground | `25, 27, 31` | `#191b1f` |
+| Comment | `109, 112, 114` | `#6d7072` |
+| Function | `33, 51, 85` | `#213355` |
+| Key word | `38, 78, 78` | `#264e4e` |
+| String | `70, 66, 75` | `#46424b` |
+| Invalid/Error | `229, 39, 39` | `#E52727` |
+
+
 The theme remains low contrast, I don't plan to increase it so much that it might cause fatigue. Or edit for yourself.
