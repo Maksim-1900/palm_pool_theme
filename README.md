@@ -51,7 +51,7 @@
 
 | Element | RGB | HEX | Style |
 | :---: | :---: | :---: | :---: |
-| Background | `227, 230, 232` | `#e3e6e8` | |
+| Background | `238, 241, 243` | `#eef1f3` | |
 | Foreground | `25, 27, 31` | `#191b1f` | |
 | Comment | `109, 112, 114` | `#6d7072` | Italic |
 | Function | `33, 51, 85` | `#213355` | |
