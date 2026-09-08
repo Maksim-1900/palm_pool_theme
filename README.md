@@ -30,9 +30,9 @@
 | Background | `28, 25, 23` | `#1c1917` | |
 | Foreground | `201, 196, 189` | `#c9c4bd` | |
 | Comment | `114, 111, 108` | `#726f6c` | Italic |
-| Function | `224, 209, 182` | `#e0d1b6` | |
-| Key word | `196, 172, 156` | `#c4ac9c` | |
-| String | `160, 165, 155` | `#a0a59b` | Italic |
+| Function | `201, 189, 165` | `#c9bda5` | |
+| Key word | `201, 167, 153` | `#c9a799` | |
+| String | `144, 150, 137` | `#909689` | Italic |
 | Invalid/Error | `230, 119, 119` | `#e67777` | Background `#e67777` with 10% opacity (optional) |
 
 ### Palm Pool Light
@@ -42,9 +42,9 @@
 | Background | `248, 239, 233` | `#f8efe9` | |
 | Foreground | `24, 20, 17` | `#181411` | |
 | Comment | `88, 88, 88` | `#585858` | Italic |
-| Function | `75, 53, 16` | `#4b3510` | |
-| Key word | `73, 41, 55` | `#492937` | |
-| String | `51, 54, 49` | `#333631` | Italic |
+| Function | `90, 59, 6` | `#5a3b06` | |
+| Key word | `78, 40, 56` | `#4e2838` | |
+| String | `61, 66, 57` | `#3d4239` | Italic |
 | Invalid/Error | `231, 58, 58` | `#e73a3a` | Background `#e73a3a` with 10% opacity (optional) |
 
 ### Palm Pool Light (Cold)
@@ -54,10 +54,8 @@
 | Background | `238, 241, 243` | `#eef1f3` | |
 | Foreground | `25, 27, 31` | `#191b1f` | |
 | Comment | `109, 112, 114` | `#6d7072` | Italic |
-| Function | `33, 51, 85` | `#213355` | |
-| Key word | `38, 78, 78` | `#264e4e` | |
+| Function | `36, 61, 105` | `#243d69` | |
+| Key word | `36, 87, 87` | `#245757` | |
 | String | `70, 66, 75` | `#46424b` | Italic |
 | Invalid/Error | `231, 58, 58` | `#e73a3a` | Background `#e73a3a` with 10% opacity (optional) |
 
-
-The theme remains low contrast, I don't plan to increase it so much that it might cause fatigue. Or edit for yourself.
