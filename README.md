@@ -8,7 +8,7 @@
 | Function | `181, 196, 221` | `#b5c4dd` | |
 | Key word | `194, 216, 207` | `#c2d8cf` | |
 | String | `154, 161, 148` | `#9aa194` | Italic |
-| Invalid/Error | `230, 119, 119` | `#e67777` | Background `#e67777` with 10% opacity (optional) |
+| Invalid/Error | `230, 119, 119` | `#e67777` | Background `#e677771a` (optional) |
 
 
 ### Palm Pool Dark (High)
@@ -21,7 +21,7 @@
 | Function | `176, 196, 231` | `#b0c4e7` | |
 | Key word | `192, 226, 212` | `#c0e2d4` | |
 | String | `171, 180, 163` | `#abb4a3` | Italic |
-| Invalid/Error | `230, 119, 119` | `#e67777` | Background `#e67777` with 10% opacity (optional) |
+| Invalid/Error | `230, 119, 119` | `#e67777` | Background `#e677771a` (optional) |
 
 ### Palm Pool Dark (Warm)
 
@@ -33,7 +33,7 @@
 | Function | `201, 189, 165` | `#c9bda5` | |
 | Key word | `201, 167, 153` | `#c9a799` | |
 | String | `144, 150, 137` | `#909689` | Italic |
-| Invalid/Error | `230, 119, 119` | `#e67777` | Background `#e67777` with 10% opacity (optional) |
+| Invalid/Error | `230, 119, 119` | `#e67777` | Background `#e677771a` (optional) |
 
 ### Palm Pool Light
 
@@ -45,7 +45,7 @@
 | Function | `90, 59, 6` | `#5a3b06` | |
 | Key word | `78, 40, 56` | `#4e2838` | |
 | String | `61, 66, 57` | `#3d4239` | Italic |
-| Invalid/Error | `231, 58, 58` | `#e73a3a` | Background `#e73a3a` with 10% opacity (optional) |
+| Invalid/Error | `231, 58, 58` | `#e73a3a` | Background `#e73a3a1a` (optional) |
 
 ### Palm Pool Light (Cold)
 
@@ -57,5 +57,5 @@
 | Function | `36, 61, 105` | `#243d69` | |
 | Key word | `36, 87, 87` | `#245757` | |
 | String | `70, 66, 75` | `#46424b` | Italic |
-| Invalid/Error | `231, 58, 58` | `#e73a3a` | Background `#e73a3a` with 10% opacity (optional) |
+| Invalid/Error | `231, 58, 58` | `#e73a3a` | Background `#e73a3a1a` (optional) |
 
