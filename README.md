@@ -28,7 +28,7 @@
 | Element | RGB | HEX | Style |
 | :---: | :---: | :---: | :---: |
 | Background | `20, 18, 17` | `#141211` | |
-| Foreground | `201, 196, 189` | `#c9c4bd` | |
+| Foreground | `221, 216, 210` | `#ddd8d2` | |
 | Comment | `114, 111, 108` | `#726f6c` | Italic |
 | Function | `201, 189, 165` | `#c9bda5` | |
 | Key word | `201, 167, 153` | `#c9a799` | |
